@@ -1,6 +1,6 @@
-# 450 DSA practice questions
+# 448 DSA practice questions
 
-Sl NO.  Topic Problem
+Sl N0.  Topic Problem
 
 1)	Array	Reverse the array
 2)	Array	Find the maximum and minimum element in an array
